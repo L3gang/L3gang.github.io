@@ -16,16 +16,16 @@ h1 {
 }
 
 .rainbow {
-    -webkit-animation: rainbow 1s infinite; 
-    -ms-animation: rainbow 1s infinite;
-    animation: rainbow 1s infinite; 
+    -webkit-animation: rainbow 2s infinite; 
+    -ms-animation: rainbow 2s infinite;
+    animation: rainbow 2s infinite; 
 }
 
 .rainbow a{
     font-size:40px;
-    -webkit-animation: rainbow 1s infinite; 
-    -ms-animation: rainbow 1s infinite;
-    animation: rainbow 1s infinite; 
+    -webkit-animation: rainbow 2s infinite; 
+    -ms-animation: rainbow 2s infinite;
+    animation: rainbow 2s infinite; 
 }
 
 @-webkit-keyframes rainbow {
