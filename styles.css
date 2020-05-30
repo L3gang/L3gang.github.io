@@ -63,7 +63,7 @@ h1 {
     max-width: 100%;
     max-height: 100vh;
     margin: auto;
-    animation: rotation 20s infinite linear;
+    animation: rotation 3s infinite linear;
 }
 
 @keyframes rotation {
